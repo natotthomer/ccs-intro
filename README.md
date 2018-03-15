@@ -11,7 +11,15 @@ represent the majority of what is regularly used. There is always more to learn!
 
 Assuming this is a roughly 5-day course, I would break things up into the following days:
 
-* Day 1 => HTML basics
+* Day 1 => HTML/CSS basics
   * What is HTML?
   * What is a tag?
-  * 
+  * Build out a super basic page
+  * Introduce CSS, Selectors, Classes, IDs, cascading
+  * Build on page built earlier with colors, hover states & transitions
+* Day 2 => More CSS/Introduction to Javascript
+  * Keep playing with pages built earlier
+  * Link tags
+  * Javascript basics: variables, assignment, logic, algebra, functions
+  * Javascript Selectors
+  * Events
